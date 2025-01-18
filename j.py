@@ -1,0 +1,6 @@
+a = int("3")
+b = float("2.99")
+c = str(3.90)
+print(a)
+print(b)
+print(c)
